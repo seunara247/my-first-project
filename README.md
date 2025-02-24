@@ -1,5 +1,6 @@
 # my-first-project
 command-line (Using Linux command on Windows)
+
 This project demonstrates basic Git commands on a Windows system using Linux commands. It covers initializing a repository, committing changes, linking to github, pushing updates, cloning and modifying files.
 
 commands used: 
