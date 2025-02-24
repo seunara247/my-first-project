@@ -4,6 +4,7 @@ command-line (Using Linux command on Windows)
 This project demonstrates basic Git commands on a Windows system using Linux commands. It covers initializing a repository, committing changes, linking to github, pushing updates, cloning and modifying files.
 
 commands used: 
+
 -'git init' initializes a new Git repository so Git starts tracking changes. 
 
 -'git add .' Stages all files in the folder for the next commit. 
