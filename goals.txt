@@ -1,1 +1,8 @@
-My programming goals: learn git and be proficient in it, build projects, improve my coding skills, get a cloud security engineering job.
+My programming goals: 
+learn Git Github and and be proficient in it, 
+build projects,
+become proficient in automayion and scripting,
+improve my coding skills,
+bring about impactful and positive improvement to the world,
+become a professional in Cloud Security,
+get a Cloud Security engineering job.
