@@ -5,7 +5,8 @@ This project demonstrates basic Git commands on a Windows system using Linux com
 
 commands used: 
 
--'git init' initializes a new Git repository so Git starts tracking changes. 
+-'git init' 
+*initializes a new Git repository so Git starts tracking changes.* 
 
 -'git add .' Stages all files in the folder for the next commit. 
 
